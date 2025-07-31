@@ -2,7 +2,7 @@
 
 This project consists of 3 IoT devices developed for disaster risk reduction and emergency response.
 
-![All 3 Devices](images/all-devices.jpg)
+![All 3 Devices](images/all-devices.png)
 
 ## Device Overview
 
