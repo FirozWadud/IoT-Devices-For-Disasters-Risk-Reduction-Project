@@ -2,7 +2,7 @@
 
 This project consists of 3 IoT devices developed for disaster risk reduction and emergency response.
 
-![All 3 Devices](images/all-devices.png)
+![All 3 Devices](all-devices.png)
 
 ## Device Overview
 
@@ -10,13 +10,13 @@ There are 3 devices:
 
 ### Device 1: Manual Call Point with Multiple Switches
 
-![Manual Call Point](images/device1-manual-callpoint.jpg)
+![Manual Call Point](Device_1/device1-manual-callpoint.png)
 
 If someone presses those switches, a SMS will go to the server.
 
 **Phone number:** 01907808281
 
-![Manual Call Point Schematic](images/device1-schematic.jpg)
+![Manual Call Point Schematic](Device_1/device1-schematic.png)
 
 ### Device 2: SMS Based Warning System
 
