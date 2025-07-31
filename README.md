@@ -3,7 +3,7 @@
 **A comprehensive emergency response system with three intelligent devices that detect fires, send instant SMS alerts, and coordinate emergency responses to save lives.**
 
 <div align="center">
-<img src="all-devices.PNG" alt="Complete IoT Emergency System" width="700"/>
+<img src="all-devices.PNG" alt="Complete IoT Emergency System" width="500"/>
 <p><i>Complete system overview - Three devices working together for disaster risk reduction</i></p>
 </div>
 
