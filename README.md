@@ -2,7 +2,7 @@
 
 This project consists of 3 IoT devices developed for disaster risk reduction and emergency response.
 
-![All 3 Devices](all-devices.png)
+![All 3 Devices](all-devices.PNG)
 
 ## Device Overview
 
@@ -10,7 +10,7 @@ There are 3 devices:
 
 ### Device 1: Manual Call Point with Multiple Switches
 
-![Manual Call Point](Device_1/device1-manual-callpoint.png)
+![Manual Call Point](Device_1/device1-manual-callpoint.PNG)
 
 If someone presses those switches, a SMS will go to the server.
 
@@ -20,29 +20,29 @@ If someone presses those switches, a SMS will go to the server.
 
 ### Device 2: SMS Based Warning System
 
-![SMS Warning System](images/device2-sms-warning.jpg)
+![SMS Warning System](Device_2/device2-sms-warning.png)
 
 This is a SMS based warning system that will turn on the strobe horn when it receives a SMS from Server with a specific syntax.
 
 **Phone number:** 01907808282
 
-![SMS Warning System Schematic](images/device2-schematic.jpg)
+![SMS Warning System Schematic](Device_2/device2-schematic.PNG)
 
 ### Device 3: IoT Fire Detection Device
 
-![IoT Fire Detector](images/device3-iot-detector.jpg)
+![IoT Fire Detector](Device_3/device3-iot-detector.png)
 
 This is an IoT device that will detect heat or smoke or manual pressing and response to the server both using GPS and GPRS.
 
 **Phone number:** 01907808283
 
-![IoT Device Schematic](images/device3-schematic.jpg)
+![IoT Device Schematic](Device_3/device3-schematic.png)
 
 ## Additional Components
 
 ### GSM & GPRS Module for Server
 
-![GSM GPRS Module](images/gsm-module.jpg)
+![GSM GPRS Module](Device_3/gsm-module.png)
 
 **Phone number:** 01907808284
 
